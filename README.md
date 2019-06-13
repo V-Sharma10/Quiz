@@ -1,6 +1,7 @@
 # Quiz
 
 Visit the site at:
-http://staticvsquiz.epizy.com/
+https://inductive-rescuers.000webhostapp.com/intro.php
 
-the site will be active after 15th june 
+
+
